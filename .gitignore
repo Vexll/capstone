@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+.venv*/
+venv*/
+__pycache__/
+dataset/
+yolov8n.pt
+runs/
