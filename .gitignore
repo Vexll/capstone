@@ -6,3 +6,4 @@ __pycache__/
 dataset/
 yolov8n.pt
 runs/
+Drowning_Detection.v2i.yolov8/
