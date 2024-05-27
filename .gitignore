@@ -3,6 +3,7 @@
 .venv*/
 venv*/
 __pycache__/
+.DS_Store
 dataset/
 yolov8n.pt
 runs/
